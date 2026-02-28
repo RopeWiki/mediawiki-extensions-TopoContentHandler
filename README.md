@@ -1,6 +1,6 @@
 # TopoContentHandler
 
-This is an extension to use the [https://github.com/hcooper/CanyonTopo](CanyonTopo) tool on mediawiki website, (which needs to be installed seperatly).
+This is an extension to use the [CanyonTopo](https://github.com/hcooper/CanyonTopo) tool on mediawiki website, (which needs to be installed seperatly).
 
 ## What it does
 
