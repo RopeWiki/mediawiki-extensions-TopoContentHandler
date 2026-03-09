@@ -44,7 +44,7 @@
     "Hooks": {
       "BeforePageDisplay": "TopoHooks::onBeforePageDisplay",
       "ParserFirstCallInit": "TopoHooks::onParserFirstCallInit",
-      "SkinTemplateNavigation": "TopoHooks::onSkinTemplateNavigation"
+      "SkinTemplateNavigation::Universal": "TopoHooks::onSkinTemplateNavigation"
     },
     "manifest_version": 2,
     "ExtensionMessagesFiles": {
